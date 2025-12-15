@@ -52,7 +52,7 @@ I’m passionate about building **real-world Python applications** and learning 
 
 ## 📫 Connect With Me
 
-* GitHub: [@your-github-username]
+* GitHub: @atulrai093
 * Learning every day 🚀
 
 ---
