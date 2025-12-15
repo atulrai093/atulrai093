@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Atul Rai
 
-<!--
-**atulrai093/atulrai093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Developer | API Integrations | Backend Learner**
+🇮🇳 India
 
-Here are some ideas to get you started:
+I’m passionate about building **real-world Python applications** and learning backend development by doing, not just watching tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I Do
+
+* 🐍 Python development (core + practical projects)
+* 🔗 API integration (News, Weather, REST APIs)
+* 📦 JSON, Config-based systems (secure & clean)
+* ⚙️ Backend logic & automation
+* 🌱 Currently learning Web Development
+
+---
+
+## 🔥 Current Focus
+
+* Building CLI-based real-world tools
+* Writing clean & reusable Python code
+* Understanding how real APIs work
+* Preparing for backend & developer roles
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, SQL
+* **Databases:** MySQL
+* **Tools:** Git, GitHub, VS Code
+* **Concepts:** APIs, JSON, HTTP, CLI apps
+
+---
+
+## 📌 Projects I Like Building
+
+* 📰 News Aggregators
+* 🌦️ Weather Apps
+* ⚙️ Automation Scripts
+* 🔐 Secure config-based systems
+
+---
+
+## 🧠 Learning Mindset
+
+> Learn daily. Build consistently. Improve relentlessly.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@your-github-username]
+* Learning every day 🚀
+
+---
+
+⭐ *Thanks for visiting my profile!*
+
