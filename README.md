@@ -27,7 +27,7 @@ I build real-world Python applications and focus on learning backend development
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL  
+- **Languages:** Python, SQL  ,FastApi
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
 
